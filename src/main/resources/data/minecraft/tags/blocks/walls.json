@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "canadacraft:silt_stone_wall",
+	"canadacraft:silt_stone_bricks_wall",
+	"canadacraft:maple_stone_bricks_wall"
+  ]
+}

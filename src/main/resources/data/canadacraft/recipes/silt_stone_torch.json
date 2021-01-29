@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" B ",
+        " A ",
+        "   "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:silt_stone"
+        },
+        "B":
+        {
+            "item": "canadacraft:maple_syrup"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:silt_stone_torch",
+		"count": 4
+    }
+}

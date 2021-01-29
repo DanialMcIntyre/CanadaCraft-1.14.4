@@ -1,0 +1,94 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:moose_boots"
+    },
+    "title": {
+      "translate": "A Canadian Adventurer",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Discover all canadian biomes"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/root",
+  "criteria": {
+    "biome0": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:deciduous_forest"
+      }
+    },
+    "biome1": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:snowy_deciduous_forest"
+      }
+    },
+    "biome2": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:maple_forest"
+      }
+    },
+    "biome3": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:snowy_maple_forest"
+      }
+    },
+    "biome4": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:red_wood_forest"
+      }
+    },
+    "biome5": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:snowy_red_wood_forest"
+      }
+    },
+    "biome6": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:prairie"
+      }
+    },
+    "biome7": {
+      "trigger": "location",
+      "conditions": {
+        "biome": "canadacraft:rocky_mountains"
+      }
+    }
+  },
+	"requirements": [
+        [
+            "biome0"
+        ],
+        [
+            "biome1"
+        ],
+        [
+            "biome2"
+        ],
+        [
+            "biome3"
+        ],
+        [
+            "biome4"
+        ],
+        [
+            "biome5"
+        ],
+        [
+            "biome6"
+        ],
+        [
+            "biome7"
+        ]
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "canadacraft:items/snowball_staff"
+    }
+}

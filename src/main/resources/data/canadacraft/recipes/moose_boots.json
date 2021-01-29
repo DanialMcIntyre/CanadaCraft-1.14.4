@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"A A",
+        "A A",
+        "   "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:moose_fur"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:moose_boots"
+    }
+}

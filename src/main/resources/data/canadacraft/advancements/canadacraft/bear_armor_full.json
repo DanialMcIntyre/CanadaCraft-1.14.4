@@ -1,0 +1,74 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:bear_helmet"
+    },
+    "title": {
+      "translate": "Built Like A Bear!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Craft a full set of grizzly bear armor"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_animal",
+  "criteria": {
+    "helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:bear_helmet"
+                }
+           ]
+      }
+    },    
+	  "chest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:bear_chestplate"
+                }
+           ]
+      }
+    },
+    "leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:bear_leggings"
+                }
+           ]
+      }
+    },
+    "boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:bear_boots"
+                }
+           ]
+      }
+    }
+  },  
+"requirements": [
+        [
+            "helmet"
+        ],
+        [
+            "chest"
+        ],
+        [
+            "leggings"
+        ],
+        [
+            "boots"
+        ]
+    ]
+}

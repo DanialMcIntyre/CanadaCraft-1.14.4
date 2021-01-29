@@ -1,0 +1,51 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:beaver_fur"
+    },
+    "title": {
+      "translate": "Canadian ressources!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Kill a canadian animal"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/root",
+  "criteria": {
+    "bear": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "canadacraft:grizzly_bear_entity"
+                }
+            }
+        },  
+	  "moose": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "canadacraft:moose_entity"
+                }
+            }
+        },
+    "beaver": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "canadacraft:beaver_entity"
+                }
+            }
+        }
+    }, 
+  "requirements": [
+        [
+            "beaver",
+            "moose",
+			"bear"
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "canadacraft:grizzly_bear_meat",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "set_count",
+                            "count": {
+                                "min": 1,
+                                "max": 2
+                            }
+                        },
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "min": 0,
+                                "max": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "canadacraft:grizzly_bear_claw",
+                    "weight": 1,
+                    "conditions": [
+                        {
+                            "condition": "random_chance_with_looting",
+                            "chance": 0.4,
+                            "looting_multiplier": 0.1
+                        }
+					],
+                    "functions": [                
+                        {
+                            "function": "looting_enchant",
+                            "count": {
+                                "min": 0,
+                                "max": 1
+                            }
+
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

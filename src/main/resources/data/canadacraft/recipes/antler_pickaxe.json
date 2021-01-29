@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        " B ",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:moose_antlers"
+        },
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:antler_pickaxe"
+    }
+}

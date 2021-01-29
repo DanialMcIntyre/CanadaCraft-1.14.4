@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "CBC",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_leaf"
+        },
+        "B":
+        {
+            "item": "canadacraft:canada_block"
+        },
+		"C":
+		{
+			"item": "canadacraft:maple_bucket"
+		}
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_boss_block"
+    }
+}

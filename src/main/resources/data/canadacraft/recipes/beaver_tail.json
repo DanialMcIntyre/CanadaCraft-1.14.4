@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:beaver_tail" },
+	"result": "canadacraft:cooked_beaver_tail",
+	"experience": 2.3,
+	"cookingtime": 200
+}

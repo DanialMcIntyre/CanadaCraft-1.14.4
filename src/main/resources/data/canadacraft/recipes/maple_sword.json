@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" A ",
+        "CAC",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_gem"
+        },
+        "B":
+        {
+            "item": "canadacraft:moose_antlers"
+        },
+        "C":
+        {
+            "item": "canadacraft:canada_gem"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_sword"
+    }
+}

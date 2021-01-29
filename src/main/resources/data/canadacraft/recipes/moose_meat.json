@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:moose_meat" },
+	"result": "canadacraft:cooked_moose_meat",
+	"experience": 2.3,
+	"cookingtime": 200
+}

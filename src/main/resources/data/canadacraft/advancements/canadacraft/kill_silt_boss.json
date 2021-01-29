@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:silt_stone_boss_egg"
+    },
+    "title": {
+      "translate": "A Siltstone Beast!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Slay the Siltstone Creeper"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/craft_boss_block",
+	"criteria": {
+        "maple": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "type": "canadacraft:silt_stone_boss_entity"
+                }
+            }
+        }
+    }
+}

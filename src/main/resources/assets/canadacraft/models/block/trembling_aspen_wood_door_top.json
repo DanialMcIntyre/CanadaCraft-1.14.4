@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_top",
+    "textures": {
+        "bottom": "canadacraft:blocks/trembling_aspen_wood_door_bottom",
+        "top": "canadacraft:blocks/trembling_aspen_wood_door_top"
+    }
+}

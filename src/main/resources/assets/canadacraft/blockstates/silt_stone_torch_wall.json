@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east": { "model": "canadacraft:block/silt_stone_torch_wall" },
+        "facing=south": { "model": "canadacraft:block/silt_stone_torch_wall", "y": 90 },
+        "facing=west": { "model": "canadacraft:block/silt_stone_torch_wall", "y": 180 },
+        "facing=north": { "model": "canadacraft:block/silt_stone_torch_wall", "y": 270 }
+    }
+}

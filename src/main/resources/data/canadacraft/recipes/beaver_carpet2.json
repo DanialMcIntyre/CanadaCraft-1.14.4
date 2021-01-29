@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:beaver_carpet1" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:beaver_carpet2"
+	 }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "canadacraft:blocks/trembling_aspen_leaves"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "canadacraft:blocks/maple_wood_planks",
+        "top": "canadacraft:blocks/maple_wood_planks",
+        "side": "canadacraft:blocks/maple_wood_planks"
+    }
+}

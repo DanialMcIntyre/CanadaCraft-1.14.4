@@ -1,0 +1,291 @@
+{
+	//Items
+	"item.canadacraft.canada_portal_dust" : "Canada Portal Dust",
+	"item.canadacraft.gypsum": "Gypsum",
+	"item.canadacraft.moose_antlers": "Moose Antlers",
+	"item.canadacraft.moose_fur": "Moose Fur",
+	"item.canadacraft.beaver_fur": "Beaver Fur",
+	"item.canadacraft.maple_syrup": "Maple Syrup",
+	"item.canadacraft.canada_gem": "Canada Gem",
+	"item.canadacraft.maple_leaf": "Maple Leaf",
+	"item.canadacraft.grizzly_bear_claw" : "Grizzly Bear Claw",
+	"item.canadacraft.maple_gem" : "Maple Gem",
+	"item.canadacraft.loonie" : "Loonie",
+	"item.canadacraft.berry_gem" : "Berry Gem",
+	"item.canadacraft.berry_ball" : "Berry Ball",
+	"item.canadacraft.mining_orb" : "Siltstone Orb",
+	"item.canadacraft.silt_stone_gem" : "Siltstone Gem",
+	"item.canadacraft.canada_key" : "Canada Key",
+	
+	//Foods
+	"item.canadacraft.beaver_tail": "Beaver Tail",
+	"item.canadacraft.cooked_beaver_tail": "Cooked Beaver Tail",
+	"item.canadacraft.moose_meat": "Moose Meat",
+	"item.canadacraft.cooked_moose_meat": "Cooked Moose Meat",
+	"item.canadacraft.maple_syrup": "Maple Syrup",
+	"item.canadacraft.maple_sap": "Maple Sap",
+	"item.canadacraft.plain_timbit": "Plain Timbit",
+	"item.canadacraft.choco_timbit": "Chocolate Timbit",
+	"item.canadacraft.jelly_timbit": "Jelly Timbit",
+	"item.canadacraft.maple_timbit": "Maple Timbit",
+	"item.canadacraft.pancakes": "Pancakes",
+	"item.canadacraft.pancakes_syrup": "Pancakes With Maple Syrup",
+	"item.canadacraft.corn": "Corn",
+	"item.canadacraft.corn_seeds": "Corn Seeds",
+	"item.canadacraft.pop_corn" : "Popcorn",
+	"item.canadacraft.huckle_berries" : "Huckle Berries",
+	"item.canadacraft.thimble_berries" : "Thimble Berries",
+	"item.canadacraft.salmon_berries" : "Salmon Berries",
+	"item.canadacraft.berry_salad" : "Berry Salad",
+	"item.canadacraft.grizzly_bear_meat" : "Grizzly Bear Meat",
+	"item.canadacraft.cooked_grizzly_bear_meat" : "Cooked Grizzly Bear Meat",
+	"item.canadacraft.maple_cake" : "Maple Cake",
+	"item.canadacraft.berry_cake" : "Berry Cake",
+	"item.canadacraft.poutine" : "Poutine",
+	
+	//Blocks
+	"block.canadacraft.canada_ore" : "Canada Portal Ore",
+	"block.canadacraft.gypsum_ore" : "Gypsum Ore",
+	"block.canadacraft.oil_ore" : "Oil Ore",
+	"block.canadacraft.gypsum_block" : "Gypsum Block",
+	"block.canadacraft.canada_block" : "Canada Gem Block",
+	
+	//Siltstone
+	"block.canadacraft.silt_stone" : "Siltstone",
+	"block.canadacraft.silt_stone_stairs" : "Siltstone Stairs",
+	"block.canadacraft.silt_stone_slab" : "Siltstone Slab",
+	"block.canadacraft.silt_stone_pressure_plate" : "Siltstone Pressure Plate",
+	"block.canadacraft.silt_stone_button" : "Siltstone Button",
+	"block.canadacraft.silt_stone_wall" : "Siltstone Wall",
+	"block.canadacraft.silt_stone_torch" : "Siltstone Torch",
+	"block.canadacraft.silt_stone_bricks" : "Siltstone Bricks",
+	"block.canadacraft.silt_stone_bricks_stairs" : "Siltstone Brick Stairs",
+	"block.canadacraft.silt_stone_bricks_slab" : "Siltstone Brick Slab",
+	"block.canadacraft.silt_stone_bricks_wall" : "Siltstone Brick Wall",
+	"block.canadacraft.chiseled_silt_stone_bricks" : "Chiseled Siltstone Bricks",
+	
+	//Maple
+	"block.canadacraft.maple_cobblestone" : "Maple Cobblestone",
+	"block.canadacraft.maple_stone_bricks" : "Maplestone Bricks",
+	"block.canadacraft.maple_stone_bricks_stairs" : "Maplestone Bricks Stairs",
+	"block.canadacraft.maple_stone_bricks_slab" : "Maplestone Bricks Slab",
+	"block.canadacraft.maple_stone_bricks_wall" : "Maplestone Bricks Wall",
+	
+	//Maple Tree
+	"block.canadacraft.maple_wood_log" : "Maple Log",
+	"block.canadacraft.maple_wood_log_empty" : "Sapless Maple Log",
+	"block.canadacraft.maple_wood_planks" : "Maple Planks",
+	"block.canadacraft.maple_leaves" : "Maple Leaves",
+	"block.canadacraft.maple_sapling" : "Maple Sapling",
+	"block.canadacraft.gypsum_ore" : "Gypsum Ore",
+	"block.canadacraft.maple_wood_slab" : "Maple Wood Slab",
+	"block.canadacraft.maple_wood_stairs" : "Maple Wood Stairs",
+	"block.canadacraft.maple_wood_fence" : "Maple Wood Fence",
+	"block.canadacraft.maple_wood_fence_gate" : "Maple Wood Fence Gate",
+	"block.canadacraft.maple_wood_button" : "Maple Wood Button",
+	"block.canadacraft.maple_wood_pressure_plate" : "Maple Wood Pressure Plate",
+	"block.canadacraft.maple_wood_door" : "Maple Wood Door",
+	"block.canadacraft.maple_wood_trap_door" : "Maple Wood Trapdoor",
+	
+	//Red Wood Tree
+	"block.canadacraft.red_wood_log" : "Red Wood Log",
+	"block.canadacraft.red_wood_planks" : "Red Wood Planks",
+	"block.canadacraft.red_wood_leaves" : "Red Wood Leaves",
+	"block.canadacraft.red_wood_sapling" : "Red Wood Sapling",
+	"block.canadacraft.red_wood_slab" : "Red Wood Slab",
+	"block.canadacraft.red_wood_stairs" : "Red Wood Stairs",
+	"block.canadacraft.red_wood_fence" : "Red Wood Fence",
+	"block.canadacraft.red_wood_fence_gate" : "Red Wood Fence Gate",
+	"block.canadacraft.red_wood_button" : "Red Wood Button",
+	"block.canadacraft.red_wood_pressure_plate" : "Red Wood Pressure Plate",
+	"block.canadacraft.red_wood_door" : "Red Wood Door",
+	"block.canadacraft.red_wood_trap_door" : "Red Wood Trapdoor",
+	
+	//Trembling Aspen Tree
+	"block.canadacraft.trembling_aspen_sapling" : "Trembling Aspen Sapling",
+	"block.canadacraft.trembling_aspen_wood_log" : "Trembling Aspen Log",
+	"block.canadacraft.trembling_aspen_leaves" : "Trembling Aspen Leaves",
+	"block.canadacraft.trembling_aspen_wood_planks" : "Trembling Aspen Planks",
+	"block.canadacraft.trembling_aspen_wood_slab" : "Trembling Aspen Wood Slab",
+	"block.canadacraft.trembling_aspen_wood_stairs" : "Trembling Aspen Wood Stairs",
+	"block.canadacraft.trembling_aspen_wood_fence" : "Trembling Aspen Wood Fence",
+	"block.canadacraft.trembling_aspen_wood_fence_gate" : "Trembling Aspen Wood Fence Gate",
+	"block.canadacraft.trembling_aspen_wood_button" : "Trembling Aspen Wood Button",
+	"block.canadacraft.trembling_aspen_wood_pressure_plate" : "Trembling Aspen Wood Pressure Plate",
+	"block.canadacraft.trembling_aspen_wood_door" : "Trembling Aspen Wood Door",
+	"block.canadacraft.trembling_aspen_wood_trap_door" : "Trembling Aspen Wood Trapdoor",
+
+	//Random
+	"block.canadacraft.meat_block" : "Meat Block",
+	"block.canadacraft.corn_crop" : "Corn Crop",
+	"item.canadacraft.corn_grass" : "Corn Grass",
+	"block.canadacraft.beaver_carpet1" : "Beaver Carpet Style 1",
+	"block.canadacraft.beaver_carpet2" : "Beaver Carpet Style 2",
+	"block.canadacraft.beaver_carpet3" : "Beaver Carpet Style 3",
+	"block.canadacraft.beaver_carpet4" : "Beaver Carpet Style 4",
+	"block.canadacraft.maple_boss_block" : "Mega Maple Monster Spawn Block",
+	"block.canadacraft.maple_boss_egg" : "Maple Monster Egg",
+	"block.canadacraft.maple_block" : "Maple Block",
+	"block.canadacraft.portal_block" : "Portal To Canada",
+	"block.canadacraft.trillium" : "Trillium",
+	"item.canadacraft.canada_disc" : "Canada Anthem",
+	"block.canadacraft.berry_boss_block" : "Berry Burglar Spawn Egg",
+	"block.canadacraft.berry_boss_egg" : "Berry Burglar Egg",
+	"block.canadacraft.berry_block" : "Berry Block",
+	"block.canadacraft.silt_stone_boss_block" : "Siltstone Creeper Spawn Egg",
+	"block.canadacraft.silt_stone_boss_egg" : "Siltstone Creeper Egg",
+	"block.canadacraft.silt_stone_block" : "Siltstone Block",
+	"block.canadacraft.canada_boss_block" : "Canada Boss Spawn Egg",
+	
+	//Fluids
+	"block.canadacraft.maple" : "Maple Nectar",
+	"item.canadacraft.maple_bucket" : "Maple Nectar Bucket",
+	
+	"block.canadacraft.berry" : "Berry Mush",
+	"item.canadacraft.berry_bucket" : "Berry Mush Bucket",
+	
+	"block.canadacraft.oil" : "Oil",
+	"item.canadacraft.oil_bucket" : "Oil Bucket",
+	
+	"block.canadacraft.berry_mush" : "Berry Mush",
+		
+	//Armor
+	"item.canadacraft.moose_helmet" : "Moose Helmet",
+	"item.canadacraft.moose_chestplate" : "Moose Chestplate",
+	"item.canadacraft.moose_leggings" : "Moose Leggings",
+	"item.canadacraft.moose_boots" : "Moose Boots",
+	
+	"item.canadacraft.enhanced_moose_helmet" : "Enhanced Moose Helmet",
+	"item.canadacraft.enhanced_moose_chestplate" : "Enhanced Moose Chestplate",
+	"item.canadacraft.enhanced_moose_leggings" : "Enhanced Moose Leggings",
+	"item.canadacraft.enhanced_moose_boots" : "Enhanced Moose Boots",
+	
+	"item.canadacraft.canada_helmet" : "Canada Helmet",
+	"item.canadacraft.canada_chestplate" : "Canada Chestplate",
+	"item.canadacraft.canada_leggings" : "Canada Leggings",
+	"item.canadacraft.canada_boots" : "Canada Boots",
+	
+	"item.canadacraft.bear_helmet" : "Grizzly Bear Band",
+	"item.canadacraft.bear_chestplate" : "Grizzly Bear Necklace",
+	"item.canadacraft.bear_leggings" : "Grizzly Bear Brace",
+	"item.canadacraft.bear_boots" : "Grizzly Bear Anklet",
+	
+	"item.canadacraft.army_hat" : "Army Hat",
+	"item.canadacraft.continental_hat" : "Continental Hat",
+	"item.canadacraft.clerical_hat" : "Clerical Hat",
+	"item.canadacraft.regent_hat" : "Regent Hat",
+	"item.canadacraft.navy_hat" : "Navy Hat",
+	
+	"item.canadacraft.maple_helmet" : "Maple Helmet",
+	"item.canadacraft.maple_leaf_chestplate" : "Maple Leaf Chestplate",
+	"item.canadacraft.berry_boots" : "Berry Boots",
+	"item.canadacraft.silt_stone_leggings" : "Siltstone Leggings",
+	
+	//Tools
+	"item.canadacraft.antler_sword" : "Antler Sword",
+	"item.canadacraft.antler_shovel" : "Antler Shovel",
+	"item.canadacraft.antler_hoe" : "Antler Hoe",
+	"item.canadacraft.antler_pickaxe" : "Antler Pickaxe",
+	"item.canadacraft.antler_axe" : "Antler Axe",
+	
+	"item.canadacraft.canada_sword" : "Canada Sword",
+	"item.canadacraft.canada_shovel" : "Canada Shovel",
+	"item.canadacraft.canada_hoe" : "Canada Hoe",
+	"item.canadacraft.canada_pickaxe" : "Canada Pickaxe",
+	"item.canadacraft.canada_axe" : "Canada Axe",
+	
+	"item.canadacraft.gypsum_blade" : "Gypsum Blade",
+	
+	"item.canadacraft.maple_sword" : "Maple Sword",
+	"item.canadacraft.berry_hoe" : "Berry Hoe",
+	"item.canadacraft.silt_stone_pickaxe" : "Siltstone Pickaxe",
+	
+	"item.canadacraft.grizzly_bear_claw_spear" : "Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_bleed" : "Bleeding Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_canada" : "Canadian Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_maple" : "Maple Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_speed" : "Swiftness Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_slow" : "Gypsum Spear",
+	"item.canadacraft.grizzly_bear_claw_spear_silt" : "Siltstone Spear",
+	
+	"item.canadacraft.snowball_staff" : "Snowball Staff",
+	
+	//Biomes
+	"biome.canadacraft.deciduous_forest" : "Deciduous Forest",
+	"biome.canadacraft.maple_forest" : "Maple Forest",
+	"biome.canadacraft.rocky_mountains" : "Rocky Mountains",
+	"biome.canadacraft.red_wood_forest" : "Red Wood Forest",
+	"biome.canadacraft.snowy_deciduous_forest" : "Snowy Deciduous Forest",
+	"biome.canadacraft.snowy_maple_forest" : "Snowy Maple Forest",
+	"biome.canadacraft.snowy_red_wood_forest" : "Snowy Red Wood Forest",
+	"biome.canadacraft.prairie" : "Prairies",
+	
+	//Spawn Eggs
+	"item.canadacraft.beaver_entity_egg" : "Beaver Spawn Egg",
+	"item.canadacraft.moose_entity_egg" : "Moose Spawn Egg",
+	"item.canadacraft.miner_entity_egg" : "Miner Spawn Egg",
+	"item.canadacraft.maple_monster_entity_egg" : "Maple Monster Spawn Egg",
+	"item.canadacraft.grizzly_bear_entity_egg" : "Grizzly Bear Spawn Egg",
+	"item.canadacraft.silt_stone_golem_entity_egg" : "Siltstone Guardian Spawn Egg",
+	"item.canadacraft.gypsum_golem_entity_egg" : "Gypsum Golem Spawn Egg",
+	"item.canadacraft.wood_runner_entity_egg" : "Wood Runner Spawn Egg",
+	"item.canadacraft.berry_blob_huckle_entity_egg" : "Huckle Berry Blob Spawn Egg",
+	"item.canadacraft.berry_blob_salmon_entity_egg" : "Salmon Berry Blob Spawn Egg",
+	"item.canadacraft.berry_blob_thimble_entity_egg" : "Thimble Berry Blob Spawn Egg",
+	
+	//Entities
+	"entity.canadacraft.maple_monster_entity" : "Maple Monster",
+	"entity.canadacraft.beaver_entity" : "Beaver",
+	"entity.canadacraft.moose_entity" : "Moose",
+	"entity.canadacraft.miner_entity" : "Miner",
+	"entity.canadacraft.grizzly_bear_entity" : "Grizzly Bear",
+	"entity.canadacraft.siltstone_golem_entity" : "Siltstone Guardian",
+	"entity.canadacraft.gypsum_golem_entity" : "Gypsum Golem",
+	"entity.canadacraft.maple_boss_entity" : "Maple Mega Monster",
+	"entity.canadacraft.wood_runner_entity" : "Wood Runner",
+	"entity.canadacraft.berry_blob_huckle_entity" : "Huckle Berry Blob",
+	"entity.canadacraft.berry_blob_salmon_entity" : "Salmon Berry Blob",
+	"entity.canadacraft.berry_blob_thimble_entity" : "Thimble Berry Blob",
+	"entity.canadacraft.berry_boss_entity" : "Berry Burglar",
+	"entity.canadacraft.silt_stone_boss_entity" : "Siltstone Creeper",
+	"entity.canadacraft.canada_boss_entity" : "Canadian Demon",
+	
+	//Sounds
+	"entity.moose.ambient" : "Moose Groans",
+	"entity.moose.hurt" : "Moose Screams",
+	"entity.moose.death" : "Moose Dies",
+	
+	"entity.beaver.ambient" : "Beaver Snickers",
+	"entity.beaver.hurt" : "Beaver Cries",
+	"entity.beaver.death" : "Beaver Dies",
+	
+	"entity.miner.ambient" : "Miner Mines",
+	"entity.miner.hurt" : "Miner Yells",
+	"entity.miner.death" : "Miner Dies",
+	
+	"entity.maple_monster.ambient" : "Maple Monster ttttt's'",
+	"entity.maple_monster.hurt" : "ttttt",
+	"entity.maple_monster.death" : "TTTTT",
+	
+	"entity.maple_monster_boss.ambient" : "Mega Maple Monster ttttt's'",
+	"entity.maple_monster_boss.hurt" : "Mega Maple Monster ttttt's in pain'",
+	"entity.maple_monster_boss.death" : "TTTTTTTTTTTTTT",
+	
+	"entity.grizzly_bear.ambient" : "Grizzly Bear Growls",
+	"entity.grizzly_bear.hurt" : "Grizzly Bear Roars",
+	"entity.grizzly_bear.death" : "Grizzly Bear Dies",
+	
+	"entity.silt_stone_golem.ambient" : "Siltstone Guardian Roars",
+	"entity.silt_stone_golem.hurt" : "Siltstone Guardian Screams",
+	"entity.silt_stone_golem.death" : "Siltstone Guardian Dies",
+	
+	"item.canadacraft.canada_disc.desc" : "Canada - National Anthem",
+
+	//Enchantments
+	"enchantment.canadacraft.siltstone_boost" : "Siltstone Boost",
+	"enchantment.canadacraft.siltstone_power" : "Siltstone Power",
+	"enchantment.canadacraft.bolster" : "Bolster",
+
+	//Tab
+	"itemGroup.canada" : "Canada Craft"
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:maple_block" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:maple_gem",
+		"count": 9
+	 }
+}

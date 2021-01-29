@@ -1,0 +1,67 @@
+{
+	"display": {
+		"icon": {
+			"item": "canadacraft:canada_boots"
+		},
+		"title": {
+			"translate": "The Wonders of Canada",
+			"color": "red"
+		},
+		"description": {
+			"translate": "Discover all the structures in canada"
+		},
+		"frame": "challenge",
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"parent": "canadacraft:canadacraft/all_biomes",
+	"criteria": {
+		"s1": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "canadacraft:rockyhouse"
+			}
+		},
+		"s2": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "canadacraft:mapledungeon"
+			}
+		},
+		"s3": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "canadacraft:mapleshack"
+			}
+		},
+		"s4": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "canadacraft:villagerhut"
+			}
+		},
+		"s5": {
+			"trigger": "location",
+			"conditions": {
+				"feature": "canadacraft:bossroom"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"s1"
+		],
+		[
+			"s2"
+		],
+		[
+			"s3"
+		],
+		[
+			"s4"
+		],
+		[
+			"s5"
+		]
+	]
+}

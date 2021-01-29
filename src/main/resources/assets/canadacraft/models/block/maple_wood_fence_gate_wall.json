@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_fence_gate_wall",
+    "textures": {
+        "texture": "canadacraft:blocks/maple_wood_planks"
+    }
+}

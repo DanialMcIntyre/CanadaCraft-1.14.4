@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:maple_boss_egg" },
+		{ "item": "canadacraft:berry_boss_egg" },
+		{ "item": "canadacraft:silt_stone_bogg_egg" },
+		{ "item": "canadacraft:canada_gem" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:canada_key"
+		
+	 }
+}

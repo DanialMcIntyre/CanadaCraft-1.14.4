@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"DDD",
+        "BCB",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:wheat"
+        },
+        "B":
+        {
+            "item": "canadacraft:berry_ball"
+        },
+        "C":
+        {
+            "item": "minecraft:egg"
+        },
+        "D":
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:berry_cake"
+    }
+}

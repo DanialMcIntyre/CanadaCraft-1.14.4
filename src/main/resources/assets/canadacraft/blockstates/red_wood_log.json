@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y":  { "model": "canadacraft:block/red_wood_log" },
+        "axis=z":   { "model": "canadacraft:block/red_wood_log", "x": 90 },
+        "axis=x":   { "model": "canadacraft:block/red_wood_log", "x": 90, "y": 90 }
+    }
+}

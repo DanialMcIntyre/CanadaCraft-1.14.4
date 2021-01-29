@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"   ",
+        "   ",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_stone_bricks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_stone_bricks_slab",
+		"count": 6
+    }
+}

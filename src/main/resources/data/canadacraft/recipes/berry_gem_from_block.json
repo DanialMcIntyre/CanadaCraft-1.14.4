@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:berry_block" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:berry_gem",
+		"count": 9
+	 }
+}

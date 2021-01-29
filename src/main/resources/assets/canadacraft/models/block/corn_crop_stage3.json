@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "canadacraft:blocks/corn_crop_stage3"
+    }
+}

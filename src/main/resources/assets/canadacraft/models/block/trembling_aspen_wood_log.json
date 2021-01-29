@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "canadacraft:blocks/trembling_aspen_wood_log_top",
+        "side": "canadacraft:blocks/trembling_aspen_wood_log"
+    }
+}

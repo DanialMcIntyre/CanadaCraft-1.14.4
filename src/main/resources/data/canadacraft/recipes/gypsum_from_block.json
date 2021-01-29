@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:gypsum_block" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:gypsum",
+		"count": 9
+	 }
+}

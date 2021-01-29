@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:silt_stone_pickaxe"
+    },
+    "title": {
+      "translate": "An Offensive Miner",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Kill an entity using a siltstone pickaxe while wearing siltstone leggings"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_silt_boss",
+  "criteria": {
+        "hoe": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "killing_blow": {
+                    "direct_entity": {
+                        "equipment": {
+                            "legs": {
+                                "item": "canadacraft:silt_stone_leggings"
+                            },
+                            "mainhand": {
+                                "item": "canadacraft:silt_stone_pickaxe"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:maple_boss_block"
+    },
+    "title": {
+      "translate": "Summoning A Mystery?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Craft a boss block"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_canada_gem",
+  "criteria": {
+    "maple": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:maple_boss_block"
+                }
+           ]
+      }
+    },    
+	  "berry": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:berry_boss_block"
+                }
+           ]
+      }
+    },
+    "silt": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:silt_stone_boss_block"
+                }
+           ]
+      }
+    }
+  },  
+  "requirements": [
+        [
+            "maple",
+            "berry",
+			"silt"
+        ]
+    ]
+}

@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:corn" },
+	"result": "canadacraft:pop_corn",
+	"experience": 2.3,
+	"cookingtime": 200
+}

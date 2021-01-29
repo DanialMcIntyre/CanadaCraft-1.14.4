@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "canadacraft:block/red_wood_pressure_plate" },
+        "powered=true": { "model": "canadacraft:block/red_wood_pressure_plate_down" }
+    }
+}

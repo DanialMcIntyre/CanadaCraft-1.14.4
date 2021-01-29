@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" CB",
+        " AC",
+        "A  "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:moose_antlers"
+        },
+        "B":
+        {
+            "item": "canadacraft:gypsum"
+        },
+		"C":
+		{
+			"item": "minecraft:snow_block"
+		}
+    },
+    "result":
+    {
+        "item": "canadacraft:snowball_staff"
+    }
+}

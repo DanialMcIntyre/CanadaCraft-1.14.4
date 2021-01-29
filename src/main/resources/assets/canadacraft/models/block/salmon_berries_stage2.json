@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "canadacraft:blocks/salmon_berries_stage2"
+    }
+}

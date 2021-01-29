@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "CBC",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:berry_ball"
+        },
+        "B":
+        {
+            "item": "canadacraft:canada_block"
+        },
+		"C":
+		{
+			"item": "canadacraft:berry_bucket"
+		}
+    },
+    "result":
+    {
+        "item": "canadacraft:berry_boss_block"
+    }
+}

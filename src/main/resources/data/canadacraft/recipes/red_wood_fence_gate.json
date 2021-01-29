@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"ABA",
+        "ABA",
+        "   "
+    ],
+    "key":
+    {
+        "B":
+        {
+            "item": "canadacraft:red_wood_planks"
+        },
+        "A":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:red_wood_fence_gate",
+		"count": 3
+    }
+}

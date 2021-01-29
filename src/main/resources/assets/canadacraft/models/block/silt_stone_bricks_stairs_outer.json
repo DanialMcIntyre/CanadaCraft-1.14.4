@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "canadacraft:blocks/silt_stone_bricks",
+        "top": "canadacraft:blocks/silt_stone_bricks",
+        "side": "canadacraft:blocks/silt_stone_bricks"
+    }
+}

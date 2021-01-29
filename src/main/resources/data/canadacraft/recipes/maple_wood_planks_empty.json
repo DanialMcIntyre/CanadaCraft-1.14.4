@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:maple_wood_log_empty" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:maple_wood_planks",
+		"count": 4
+	 }
+}

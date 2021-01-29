@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "canadacraft:blocks/maple_cake_side",
+        "bottom": "canadacraft:blocks/maple_cake_bottom",
+        "top": "canadacraft:blocks/maple_cake_top",
+        "side": "canadacraft:blocks/maple_cake_side",
+        "inside": "canadacraft:blocks/maple_cake_inner"
+    },
+    "elements": [
+        {   "from": [ 11, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

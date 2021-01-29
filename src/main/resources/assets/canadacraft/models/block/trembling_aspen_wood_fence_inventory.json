@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_inventory",
+    "textures": {
+        "texture": "canadacraft:blocks/trembling_aspen_wood_planks"
+    }
+}

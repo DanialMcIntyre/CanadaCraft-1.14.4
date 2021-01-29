@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:red_wood_log" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:red_wood_planks",
+		"count": 4
+	 }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"   ",
+        "   ",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:red_wood_planks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:red_wood_slab",
+		"count": 6
+    }
+}

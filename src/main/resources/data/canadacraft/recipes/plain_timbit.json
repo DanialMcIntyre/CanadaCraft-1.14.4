@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:wheat" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:plain_timbit",
+		"count": 3
+	 }
+}

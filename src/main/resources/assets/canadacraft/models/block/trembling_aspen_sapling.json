@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "canadacraft:blocks/trembling_aspen_sapling"
+    }
+}

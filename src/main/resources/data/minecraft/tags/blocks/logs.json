@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "canadacraft:maple_wood_log",
+	"canadacraft:red_wood_log",
+	"canadacraft:maple_wood_log_empty",
+	"canadacraft:trembling_aspen_wood_log"
+  ]
+}

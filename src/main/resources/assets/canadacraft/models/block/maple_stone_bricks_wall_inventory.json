@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_inventory",
+    "textures": {
+        "wall": "canadacraft:blocks/maple_stone_bricks"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"A  ",
+        "AA ",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_stone_bricks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_stone_bricks_stairs",
+		"count": 4
+    }
+}

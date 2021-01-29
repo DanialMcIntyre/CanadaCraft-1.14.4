@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"   ",
+        "A  ",
+		"A  "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:silt_stone_bricks_slab"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:chiseled_silt_stone_bricks",
+        "count": 1
+    }
+}

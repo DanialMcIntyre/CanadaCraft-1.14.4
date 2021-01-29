@@ -1,0 +1,126 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:grizzly_bear_claw_spear_canada"
+    },
+    "title": {
+      "translate": "Mastering The Spears",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Obtain all the spears"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_spear",
+  "criteria": {
+        "spear": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear"
+                    }
+                ]
+            }
+        },
+        "bleed": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_bleed"
+                    }
+                ]
+            }
+        },
+        "canada": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_canada"
+                    }
+                ]
+            }
+        },
+        "maple": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_maple"
+                    }
+                ]
+            }
+        },
+        "swift": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_speed"
+                    }
+                ]
+            }
+        },
+        "gypsum": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_slow"
+                    }
+                ]
+            }
+        },
+        "silt": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:grizzly_bear_claw_spear_silt"
+                    }
+                ]
+            }
+        },
+        "snow": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:snowball_staff"
+                    }
+                ]
+            }
+        }
+    },
+	"requirements": [
+        [
+            "spear"
+        ],
+        [
+            "bleed"
+        ],
+        [
+            "canada"
+        ],
+        [
+            "maple"
+        ],
+        [
+            "swift"
+        ],
+        [
+            "gypsum"
+        ],
+        [
+            "silt"
+        ],
+        [
+            "snow"
+        ]
+    ]
+}

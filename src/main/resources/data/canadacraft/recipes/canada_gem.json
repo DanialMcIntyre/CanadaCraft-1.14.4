@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "ABA",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:gypsum"
+        },
+        "B":
+        {
+            "item": "canadacraft:maple_leaf"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:canada_gem"
+    }
+}

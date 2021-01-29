@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:maple_stone_bricks"
+    },
+    "title": {
+      "translate": "The Final Destination!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Find the Canadian Tower"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_key",
+  "criteria": {
+        "boss": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "feature": "canadacraft:bossroom"
+            }
+        }
+    }
+}

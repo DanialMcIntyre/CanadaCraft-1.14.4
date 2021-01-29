@@ -1,0 +1,213 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:beaver_tail"
+    },
+    "title": {
+      "translate": "A Canadian Delicacy",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Eat canadian food"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/root",
+    "criteria": {
+        "beavertail": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:beaver_tail"
+                }
+            }
+        },
+        "cookedbeavertail": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:cooked_beaver_tail"
+                }
+            }
+        },
+        "moosemeat": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:moose_meat"
+                }
+            }
+        },
+        "cookedmoosemeat": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:cooked_moose_meat"
+                }
+            }
+        },
+        "grizzlymeat": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:grizzly_bear_meat"
+                }
+            }
+        },
+        "cookedgrizzlymeat": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:cooked_grizzly_bear_meat"
+                }
+            }
+        },
+        "plaintimbit": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:plain_timbit"
+                }
+            }
+        },
+        "chocotimbit": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:choco_timbit"
+                }
+            }
+        },
+        "jellytimbit": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:jelly_timbit"
+                }
+            }
+        },
+        "mapletimbit": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:maple_timbit"
+                }
+            }
+        },
+        "corn": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:corn"
+                }
+            }
+        },
+        "popcorn": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:pop_corn"
+                }
+            }
+        },
+        "maplesap": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:maple_sap"
+                }
+            }
+        },
+        "maplesyrup": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:maple_syrup"
+                }
+            }
+        },
+        "pancakes": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:pancakes"
+                }
+            }
+        },
+        "pancakessyrup": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:pancakes_syrup"
+                }
+            }
+        },
+        "huckle": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:huckle_berries"
+                }
+            }
+        },
+        "thimble": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:thimble_berries"
+                }
+            }
+        },
+        "salmon": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:salmon_berries"
+                }
+            }
+        },
+        "berrysalad": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:berry_salad"
+                }
+            }
+        },
+        "poutine": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "canadacraft:poutine"
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "beavertail",
+            "cookedbeavertail",
+			"moosemeat",
+			"cookedmoosemeat",
+			"grizzlymeat",
+			"cookedgrizzlymeat",
+			"plaintimbit",
+			"chocotimbit",
+			"jellytimbit",
+			"mapletimbit",
+			"corn",
+			"popcorn",
+			"maplesap",
+			"maplesyrup",
+			"pancakes",
+			"pancakessyrup",
+			"huckle",
+			"thimble",
+			"salmon",
+			"berrysalad",
+			"poutine"
+        ]
+    ]
+}

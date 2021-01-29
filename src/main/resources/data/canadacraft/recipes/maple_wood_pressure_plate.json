@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"   ",
+        "   ",
+        "AA "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_wood_planks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_wood_pressure_plate"
+    }
+}

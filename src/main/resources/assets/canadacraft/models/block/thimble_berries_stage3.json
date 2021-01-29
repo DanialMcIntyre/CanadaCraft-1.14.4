@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "canadacraft:blocks/thimble_berries_stage3"
+    }
+}

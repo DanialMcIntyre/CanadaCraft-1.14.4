@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:meat_block"
+    },
+    "title": {
+      "translate": "A Block Of Food?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Place a meat block"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/eat_canada_food",
+  "criteria": {
+        "meat": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "canadacraft:meat_block"
+            }
+        }
+    }
+}

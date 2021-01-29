@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "A A",
+        "   "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_gem"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_helmet"
+    }
+}

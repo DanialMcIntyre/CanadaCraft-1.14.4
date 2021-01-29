@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:huckle_berries" },
+		{ "item": "canadacraft:thimble_berries" },
+		{ "item": "canadacraft:salmon_berries" },
+		{ "item": "minecraft:bowl" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:berry_salad"
+		
+	 }
+}

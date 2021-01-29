@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" A ",
+        " B ",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:grizzly_bear_claw"
+        },
+        "B":
+        {
+            "item": "canadacraft:moose_antlers"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:grizzly_bear_claw_spear"
+    }
+}

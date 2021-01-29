@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:gypsum_ore" },
+	"result": "canadacraft:gypsum",
+	"experience": 2.3,
+	"cookingtime": 200
+}

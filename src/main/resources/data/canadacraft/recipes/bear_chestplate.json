@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" B ",
+        "BAB",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:moose_chestplate"
+        },
+        "B":
+        {
+            "item": "canadacraft:grizzly_bear_claw"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:bear_chestplate"
+    }
+}

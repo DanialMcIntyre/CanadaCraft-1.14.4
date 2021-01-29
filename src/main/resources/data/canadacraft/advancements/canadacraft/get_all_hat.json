@@ -1,0 +1,87 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:army_hat"
+    },
+    "title": {
+      "translate": "New Outfits!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Obtain all the beaver hats"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_animal",
+  "criteria": {
+        "army": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:army_hat"
+                    }
+                ]
+            }
+        },
+        "clerical": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:clerical_hat"
+                    }
+                ]
+            }
+        },
+        "continental": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:continental_hat"
+                    }
+                ]
+            }
+        },
+        "navy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:navy_hat"
+                    }
+                ]
+            }
+        },
+        "regent": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:regent_hat"
+                    }
+                ]
+            }
+        }
+    },
+	"requirements": [
+        [
+            "army"
+        ],
+        [
+            "clerical"
+        ],
+        [
+            "continental"
+        ],
+        [
+            "navy"
+        ],
+        [
+            "regent"
+        ]
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_wall_side",
+    "textures": {
+        "wall": "canadacraft:blocks/silt_stone_bricks"
+    }
+}

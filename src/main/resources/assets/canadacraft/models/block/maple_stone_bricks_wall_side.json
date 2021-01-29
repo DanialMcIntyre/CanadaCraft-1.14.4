@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_wall_side",
+    "textures": {
+        "wall": "canadacraft:blocks/maple_stone_bricks"
+    }
+}

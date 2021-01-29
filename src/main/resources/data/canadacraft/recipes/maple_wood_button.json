@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "canadacraft:maple_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "canadacraft:maple_wood_button"
+  }
+}

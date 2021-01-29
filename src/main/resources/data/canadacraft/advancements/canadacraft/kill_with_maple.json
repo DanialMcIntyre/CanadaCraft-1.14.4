@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:maple_sword"
+    },
+    "title": {
+      "translate": "Maple > Diamond?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Kill an entity using a maple sword while wearing a maple helmet"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_maple_boss",
+  "criteria": {
+        "hoe": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "killing_blow": {
+                    "direct_entity": {
+                        "equipment": {
+                            "head": {
+                                "item": "canadacraft:maple_helmet"
+                            },
+                            "mainhand": {
+                                "item": "canadacraft:maple_sword"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

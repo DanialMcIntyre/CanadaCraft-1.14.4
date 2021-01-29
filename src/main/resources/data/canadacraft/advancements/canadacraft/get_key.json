@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:canada_key"
+    },
+    "title": {
+      "translate": "A Key To What?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Obtain the canada key"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/craft_boss_block",
+  "criteria": {
+    "gypsum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:canada_key"
+                }
+           ]
+      }
+    }
+  }
+}

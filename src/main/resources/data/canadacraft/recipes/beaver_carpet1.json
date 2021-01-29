@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"   ",
+        "   ",
+        "AA "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:beaver_fur"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:beaver_carpet1",
+		"count": 2
+    }
+}

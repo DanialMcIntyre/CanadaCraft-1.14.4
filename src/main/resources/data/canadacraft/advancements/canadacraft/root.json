@@ -1,0 +1,80 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:maple_leaf"
+    },
+    "title": {
+      "translate": "Welcome to Canada!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Enter the Country of Canada!"
+    },
+    "background": "canadacraft:textures/blocks/maple_wood_planks.png",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "frame": "task"
+  },
+  "criteria": {
+        "deciduous": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:deciduous_forest"
+            }
+        },
+        "prairie": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:prairie"
+            }
+        },
+        "maple": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:maple_forest"
+            }
+        },
+        "red": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:red_wood_forest"
+            }
+        },
+        "snow_deciduous": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:snowy_deciduous_forest"
+            }
+        },
+        "snow_maple": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:snowy_maple_forest"
+            }
+        },
+        "snow_red": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:snowy_red_wood_forest"
+            }
+        },
+        "snow_rocky": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "canadacraft:rocky_mountains"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "deciduous",
+            "prairie",
+			"maple",
+			"red",
+			"snow_deciduous",
+			"snow_maple",
+			"snow_red",
+			"snow_rocky"
+        ]
+    ]
+}

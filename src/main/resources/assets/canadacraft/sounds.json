@@ -1,0 +1,135 @@
+{
+		"entity.beaver.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.beaver.ambient",
+		"sounds": [{"name": "canadacraft:entity/beaver/ambient", "stream": true}]
+	},
+		"entity.beaver.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.beaver.hurt",
+		"sounds": [{"name": "canadacraft:entity/beaver/hurt", "stream": true}]
+	},
+		"entity.beaver.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.beaver.death",
+		"sounds": [{"name": "canadacraft:entity/beaver/death", "stream": true}]
+	},
+		"entity.moose.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.moose.ambient",
+		"sounds": [{"name": "canadacraft:entity/moose/ambient", "stream": true}]
+	},
+		"entity.moose.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.moose.hurt",
+		"sounds": [{"name": "canadacraft:entity/moose/hurt", "stream": true}]
+	},
+		"entity.moose.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.moose.death",
+		"sounds": [{"name": "canadacraft:entity/moose/death", "stream": true}]
+	},
+		"entity.maple_monster.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster.ambient",
+		"sounds": [{"name": "canadacraft:entity/maple_monster/ambient", "stream": true}]
+	},
+		"entity.maple_monster.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster.hurt",
+		"sounds": [{"name": "canadacraft:entity/maple_monster/hurt", "stream": true}]
+	},
+		"entity.maple_monster.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster.death",
+		"sounds": [{"name": "canadacraft:entity/maple_monster/death", "stream": true}]
+	},
+		"entity.maple_monster_boss.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster_boss.ambient",
+		"sounds": [{"name": "canadacraft:entity/maple_monster_boss/ambient", "stream": true}]
+	},
+		"entity.maple_monster_boss.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster_boss.hurt",
+		"sounds": [{"name": "canadacraft:entity/maple_monster_boss/hurt", "stream": true}]
+	},
+		"entity.maple_monster_boss.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.maple_monster_boss.death",
+		"sounds": [{"name": "canadacraft:entity/maple_monster_boss/death", "stream": true}]
+	},
+		"entity.miner.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.miner.ambient",
+		"sounds": [{"name": "canadacraft:entity/miner/ambient", "stream": true}]
+	},
+		"entity.miner.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.miner.hurt",
+		"sounds": [{"name": "canadacraft:entity/miner/hurt", "stream": true}]
+	},
+		"entity.miner.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.miner.death",
+		"sounds": [{"name": "canadacraft:entity/miner/death", "stream": true}]
+	},
+		"entity.grizzly_bear.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.grizzly_bear.ambient",
+		"sounds": [{"name": "canadacraft:entity/grizzly_bear/ambient", "stream": true}]
+	},
+		"entity.grizzly_bear.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.grizzly_bear.hurt",
+		"sounds": [{"name": "canadacraft:entity/grizzly_bear/hurt", "stream": true}]
+	},
+		"entity.grizzly_bear.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.grizzly_bear.death",
+		"sounds": [{"name": "canadacraft:entity/grizzly_bear/death", "stream": true}]
+	},
+		"entity.silt_stone_golem.ambient":
+	{
+		"category": "entity",
+		"subtitle": "entity.silt_stone_golem.ambient",
+		"sounds": [{"name": "canadacraft:entity/silt_stone_golem/ambient", "stream": true}]
+	},
+		"entity.silt_stone_golem.hurt":
+	{
+		"category": "entity",
+		"subtitle": "entity.silt_stone_golem.hurt",
+		"sounds": [{"name": "canadacraft:entity/silt_stone_golem/hurt", "stream": true}]
+	},
+		"entity.silt_stone_golem.death":
+	{
+		"category": "entity",
+		"subtitle": "entity.silt_stone_golem.death",
+		"sounds": [{"name": "canadacraft:entity/silt_stone_golem/death", "stream": true}]
+	},
+		"item.canada_disc.disc":
+	{
+		"category": "item",
+		"subtitle": "item.canada_disc.disc",
+		"sounds": [{"name": "canadacraft:item/canada_anthem", "stream": true}]
+	}
+	
+}

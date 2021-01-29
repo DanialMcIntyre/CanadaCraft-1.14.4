@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:canada_ore" },
+	"result": "canadacraft:canada_portal_dust",
+	"experience": 2.3,
+	"cookingtime": 500
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:grizzly_bear_claw_spear" },
+		{ "item": "canadacraft:corn" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:grizzly_bear_claw_spear_speed"
+		
+	 }
+}

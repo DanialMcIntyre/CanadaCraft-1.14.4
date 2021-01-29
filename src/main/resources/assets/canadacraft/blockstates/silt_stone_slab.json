@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "canadacraft:block/silt_stone_slab" },
+        "type=top": { "model": "canadacraft:block/silt_stone_slab_top" },
+        "type=double": { "model": "canadacraft:block/silt_stone" }
+    }
+}

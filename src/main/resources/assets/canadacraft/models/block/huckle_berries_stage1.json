@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "canadacraft:blocks/huckle_berries_stage1"
+    }
+}

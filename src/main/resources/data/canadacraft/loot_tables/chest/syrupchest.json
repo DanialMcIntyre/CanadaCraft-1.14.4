@@ -1,0 +1,21 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 7,
+        "max": 10
+      },
+      "bonus_rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "canadacraft:maple_sap"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "canadacraft:maple_syrup"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:silt_stone_pickaxe"
+    },
+    "title": {
+      "translate": "A New Way to Mine",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Fully enchant a siltstone pickaxe with siltstone power and siltstone boost"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_silt_boss",
+  "criteria": {
+        "enchant": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:silt_stone_pickaxe",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:siltstone_boost",
+                                "levels": {
+                                    "min": 5,
+                                    "max": 5
+                                }
+                            },
+                            {
+                                "enchantment": "canadacraft:siltstone_power",
+                                "levels": {
+                                    "min": 3,
+                                    "max": 3
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

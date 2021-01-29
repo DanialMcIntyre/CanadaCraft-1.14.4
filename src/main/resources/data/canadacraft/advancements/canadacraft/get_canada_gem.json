@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:canada_gem"
+    },
+    "title": {
+      "translate": "Better Than Diamond?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Obtain a canada gem"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_gypsum",
+  "criteria": {
+    "gem": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:canada_gem"
+                }
+           ]
+      }
+    }
+  }
+}

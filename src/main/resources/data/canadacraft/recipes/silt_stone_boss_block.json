@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "CBC",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:mining_orb"
+        },
+        "B":
+        {
+            "item": "canadacraft:canada_block"
+        },
+		"C":
+		{
+			"item": "canadacraft:oil_bucket"
+		}
+    },
+    "result":
+    {
+        "item": "canadacraft:silt_stone_boss_block"
+    }
+}

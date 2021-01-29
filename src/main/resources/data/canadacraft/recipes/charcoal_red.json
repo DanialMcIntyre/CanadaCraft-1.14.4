@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:red_wood_log" },
+	"result": "minecraft:charcoal",
+	"experience": 2.3,
+	"cookingtime": 200
+}

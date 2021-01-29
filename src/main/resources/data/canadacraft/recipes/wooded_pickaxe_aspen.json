@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        " B ",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:trembling_aspen_wood_planks"
+        },
+        "B":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    "result":
+    {
+        "item": "minecraft:wooden_pickaxe"
+    }
+}

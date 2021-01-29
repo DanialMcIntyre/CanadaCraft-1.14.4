@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "canadacraft:blocks/red_wood_planks",
+        "top": "canadacraft:blocks/red_wood_planks",
+        "side": "canadacraft:blocks/red_wood_planks"
+    }
+}

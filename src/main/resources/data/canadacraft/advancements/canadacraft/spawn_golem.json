@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:gypsum_golem_entity_egg"
+    },
+    "title": {
+      "translate": "The Iron's Cousin!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Spawn a gypsum golem and then attack it"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_gypsum",
+      "criteria": {
+        "golem": {
+            "trigger": "minecraft:player_hurt_entity",
+            "conditions": {
+                "entity": {
+                    "type": "canadacraft:gypsum_golem_entity"
+                }
+            }
+        }
+    }
+}

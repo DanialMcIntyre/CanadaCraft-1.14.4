@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "canadacraft:blocks/maple_wood_door_bottom",
+        "top": "canadacraft:blocks/maple_wood_door_top"
+    }
+}

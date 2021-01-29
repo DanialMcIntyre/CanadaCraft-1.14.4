@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "canadacraft:blocks/maple_sapling"
+    }
+}

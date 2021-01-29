@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "canadacraft:trembling_aspen_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "canadacraft:trembling_aspen_wood_button"
+  }
+}

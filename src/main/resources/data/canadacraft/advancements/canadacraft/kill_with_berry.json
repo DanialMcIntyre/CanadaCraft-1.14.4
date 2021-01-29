@@ -1,0 +1,47 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:berry_hoe"
+    },
+    "title": {
+      "translate": "Berries are OP?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Kill an entity using a berry hoe while wearing berry boots"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/kill_berry_boss",
+  "criteria": {
+        "hoe": {
+            "trigger": "minecraft:player_killed_entity",
+            "conditions": {
+                "entity": {
+                    "effects": {
+                        "minecraft:wither": {
+                            "amplifier": {
+                                "min": 2,
+                                "max": 2
+                            }
+                        }
+                    }
+                },
+                "killing_blow": {
+                    "direct_entity": {
+                        "equipment": {
+                            "feet": {
+                                "item": "canadacraft:berry_boots"
+                            },
+                            "mainhand": {
+                                "item": "canadacraft:berry_hoe"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

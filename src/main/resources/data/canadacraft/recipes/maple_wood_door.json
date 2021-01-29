@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AA ",
+        "AA ",
+        "AA "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:maple_wood_planks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:maple_wood_door",
+        "count": 3
+    }
+}

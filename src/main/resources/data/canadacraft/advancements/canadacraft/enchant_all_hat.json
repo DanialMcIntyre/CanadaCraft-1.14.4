@@ -1,0 +1,132 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:army_hat"
+    },
+    "title": {
+      "translate": "Bolstering The Power!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Enchant all the beaver hats to the maximum bolster level"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_all_hat",
+  "criteria": {
+        "army": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:army_hat",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:bolster",
+                                "levels": {
+                                    "min": 2,
+                                    "max": 2
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "clerical": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:clerical_hat",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:bolster",
+                                "levels": {
+                                    "min": 2,
+                                    "max": 2
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+		},
+        "continental": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:continental_hat",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:bolster",
+                                "levels": {
+                                    "min": 2,
+                                    "max": 2
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+		},
+        "navy": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:navy_hat",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:bolster",
+                                "levels": {
+                                    "min": 2,
+                                    "max": 2
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+		},
+        "regent": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "canadacraft:regent_hat",
+                        "enchantments": [
+                            {
+                                "enchantment": "canadacraft:bolster",
+                                "levels": {
+                                    "min": 2,
+                                    "max": 2
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+		}
+    },
+	"requirements": [
+        [
+            "army"
+        ],
+        [
+            "clerical"
+        ],
+        [
+            "continental"
+        ],
+        [
+            "navy"
+        ],
+        [
+            "regent"
+        ]
+    ]
+}

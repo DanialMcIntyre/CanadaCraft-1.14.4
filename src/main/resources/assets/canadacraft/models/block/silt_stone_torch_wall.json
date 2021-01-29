@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch_wall",
+    "textures": {
+        "torch": "canadacraft:blocks/silt_stone_torch"
+    }
+}

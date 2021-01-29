@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"A  ",
+        "AA ",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:trembling_aspen_wood_planks"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:trembling_aspen_wood_stairs",
+        "count": 4
+    }
+}

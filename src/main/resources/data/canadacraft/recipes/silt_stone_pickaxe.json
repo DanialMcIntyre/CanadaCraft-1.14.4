@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        " B ",
+        " B "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:silt_stone_gem"
+        },
+        "B":
+        {
+            "item": "canadacraft:moose_antlers"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:silt_stone_pickaxe"
+    }
+}

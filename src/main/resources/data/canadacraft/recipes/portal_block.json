@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"BBB",
+        "BAB",
+        "BBB"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        "B":
+        {
+            "item": "canadacraft:canada_portal_dust"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:portal_block"
+    }
+}

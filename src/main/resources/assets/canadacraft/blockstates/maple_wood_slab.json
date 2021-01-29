@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "canadacraft:block/maple_wood_slab" },
+        "type=top": { "model": "canadacraft:block/maple_wood_slab_top" },
+        "type=double": { "model": "canadacraft:block/maple_wood_planks" }
+    }
+}

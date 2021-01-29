@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	"AAA",
+        "AAA",
+        "   "
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:silt_stone"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:silt_stone_wall",
+		"count": 6
+    }
+}

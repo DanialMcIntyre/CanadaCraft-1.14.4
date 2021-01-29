@@ -1,0 +1,7 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": { "item": "canadacraft:red_wood_planks" },
+	"result": "minecraft:oak_planks",
+	"experience": 2.3,
+	"cookingtime": 200
+}

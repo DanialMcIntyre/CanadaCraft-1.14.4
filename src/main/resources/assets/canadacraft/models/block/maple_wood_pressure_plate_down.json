@@ -1,0 +1,6 @@
+{
+    "parent": "block/pressure_plate_down",
+    "textures": {
+        "texture": "canadacraft:blocks/maple_wood_planks"
+    }
+}

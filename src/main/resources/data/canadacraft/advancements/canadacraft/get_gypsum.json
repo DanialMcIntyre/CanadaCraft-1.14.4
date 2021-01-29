@@ -1,0 +1,30 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:gypsum"
+    },
+    "title": {
+      "translate": "A Canadian Ore?",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Obtain gypsum"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/root",
+  "criteria": {
+    "gypsum": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:gypsum"
+                }
+           ]
+      }
+    }
+  }
+}

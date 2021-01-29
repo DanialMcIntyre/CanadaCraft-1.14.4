@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "canadacraft:blocks/maple_stone_bricks",
+        "top": "canadacraft:blocks/maple_stone_bricks",
+        "side": "canadacraft:blocks/maple_stone_bricks"
+    }
+}

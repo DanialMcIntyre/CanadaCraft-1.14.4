@@ -1,0 +1,74 @@
+{
+  "display": {
+    "icon": {
+      "item": "canadacraft:enhanced_moose_chestplate"
+    },
+    "title": {
+      "translate": "Stronger Fur!",
+	  "color": "red"
+    },
+    "description": {
+      "translate": "Get a full set of enhanced moose armor"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "canadacraft:canadacraft/get_gypsum",
+  "criteria": {
+    "helmet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:enhanced_moose_helmet"
+                }
+           ]
+      }
+    },    
+	  "chest": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:enhanced_moose_chestplate"
+                }
+           ]
+      }
+    },
+    "leggings": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:enhanced_moose_leggings"
+                }
+           ]
+      }
+    },
+    "boots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+      		"items": [
+            	{
+                        "item": "canadacraft:enhanced_moose_boots"
+                }
+           ]
+      }
+    }
+  },  
+"requirements": [
+        [
+            "helmet"
+        ],
+        [
+            "chest"
+        ],
+        [
+            "leggings"
+        ],
+        [
+            "boots"
+        ]
+    ]
+}

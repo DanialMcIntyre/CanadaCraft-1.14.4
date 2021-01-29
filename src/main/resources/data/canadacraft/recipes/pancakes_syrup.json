@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": 
+	[
+		{ "item": "canadacraft:maple_syrup" },
+		{ "item": "canadacraft:pancakes" }
+	],
+	
+	"result": { 
+		
+		"item": "canadacraft:pancakes_syrup"
+	 }
+}

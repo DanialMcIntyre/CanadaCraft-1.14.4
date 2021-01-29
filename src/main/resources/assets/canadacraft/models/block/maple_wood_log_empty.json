@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "canadacraft:blocks/maple_wood_log_top_empty",
+        "side": "canadacraft:blocks/maple_wood_log_empty"
+    }
+}

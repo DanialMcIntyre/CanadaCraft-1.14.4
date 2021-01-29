@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+    	" A ",
+        "AAA",
+        "AAA"
+    ],
+    "key":
+    {
+        "A":
+        {
+            "item": "canadacraft:beaver_fur"
+        }
+    },
+    "result":
+    {
+        "item": "canadacraft:army_hat"
+    }
+}
